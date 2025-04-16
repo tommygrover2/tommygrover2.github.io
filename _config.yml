@@ -1,1 +1,5 @@
-
+title: Thomas Grover
+#logo: relative/path/to/image/of/me
+#description: Text Below Image
+show_downloads: False
+theme: jekyll-theme-slate
