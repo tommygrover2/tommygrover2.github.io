@@ -1,5 +1,5 @@
-[LinkedIn](https://www.linkedin.com/in/thomas-grover2/)
-[Github Profile](https://github.com/tommygrover2)
+[LinkedIn](https://www.linkedin.com/in/thomas-grover2/) |
+[Github Profile](https://github.com/tommygrover2) |
 [Resume]()
 
 
