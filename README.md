@@ -1,3 +1,10 @@
+[LinkedIn](https://www.linkedin.com/in/thomas-grover2/)
+[Github Profile](https://github.com/tommygrover2)
+[Resume]()
+
+
+## About
+My name is Thomas Grover. I am a student at North Carolina State University, with my studies being focused around statistics, data science, and programming. I grew up in Wakefield, Massachusetts with a big family, and I am a first generation college student! I am extremely curious and love learning about cutting edge ideas, new technology, human behavior, and philosophical concepts. Outside of my studies, I love playing pool/billiards and golf, fishing, and spending time with those that I care about.
 
 ## Education		        		
  B.S., Statistics | North Carolina State University (_May 2027_)
@@ -15,22 +22,17 @@
 - This oppurtunity will allow me to work from end to end and get to see some of the modeling techniques and code used in practical research.
 
 ## Projects
-### Statistical Computing Final Project
+### Statistical Computing Final Project (SAS)
 [Results]() |
 [Phase 1 Code]() |
-[Phase 2 Code]() |
+[Phase 2 Code]() 
 
-### North Carolina Senior Games Pickleball Data Analysis
+### North Carolina Senior Games Pickleball Data Analysis (SAS)
 [Report](https://www.mdpi.com/1424-8220/22/8/3048) |
 [Code]() |
-[Data Set]() |
+[Data Set]() 
 
-### Fraternity Alumni Database Filtering and Cleaning for Targeted Outreach
-- The data used in this project was sensitive and thus cannot be shared. |
+### Alumni Database Filtering and Cleaning for Targeted Outreach (SAS)
 [Code]()
-
-
-
-
 
 
