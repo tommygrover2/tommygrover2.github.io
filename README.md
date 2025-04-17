@@ -16,21 +16,17 @@
 
 ## Projects
 ### Statistical Computing Final Project
-- This was a large data analysis project for one of my courses. It was handled in two distinct phases.
-- First, I did all my data cleaning and data preparation for analysis. This included reading raw data, concatenating and joining datasets, deriving new variables, and creating subsets used to generate output.
-- In the second phase, I utilized the prepared data to generate visuals and reports about fictitious beverage company data. 
-[Results]()
-[Phase 1 Code]()
-[Phase 2 Code]()
+[Results]() |
+[Phase 1 Code]() |
+[Phase 2 Code]() |
 
 ### North Carolina Senior Games Pickleball Data Analysis
-[Report](https://www.mdpi.com/1424-8220/22/8/3048)
-[Code]()
-[Data Set]()
+[Report](https://www.mdpi.com/1424-8220/22/8/3048) |
+[Code]() |
+[Data Set]() |
 
 ### Fraternity Alumni Database Filtering and Cleaning for Targeted Outreach
-- The data used in this project was sensitive and thus cannot be shared.
-- I have provided my SAS code to showcase the data cleaning/filtering.
+- The data used in this project was sensitive and thus cannot be shared. |
 [Code]()
 
 
