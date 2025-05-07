@@ -39,3 +39,8 @@ My name is Thomas Grover. I am a student at North Carolina State University, wit
 [Phase 1 Code]() |
 [Phase 2 Code]() 
 
+### Introduction to Statistical Computing Work (R)
+[Code]() |
+[Code]() |
+[Code]() 
+
