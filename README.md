@@ -8,7 +8,7 @@ My name is Thomas Grover. I am a student at North Carolina State University, wit
 
 ## Education		        		
  B.S., Statistics | North Carolina State University (_May 2027_)
-- Minors: Psychology and Mathematical Data Science
+- Minors: Mathematical Data Science, Psychology, and Philosophy
 
 ## Work Experience
 **Player Personel Intern @ NC State's Football Program (_August 2025 - June 2026_)**
@@ -28,8 +28,8 @@ My name is Thomas Grover. I am a student at North Carolina State University, wit
 [Phase 2 Code]() 
 
 ### North Carolina Senior Games Pickleball Data Analysis (SAS)
-[Report](assets/NCSGProjectReport) |
-[Code](assets/NCSGProjectCode)
+[Report](assets/NCSGProjectReport.pdf) |
+[Code](assets/NCSGProjectCode.pdf)
 
 ### Alumni Database Filtering and Cleaning for Targeted Outreach (SAS)
 [Summary](assets/AlumniAnalysisSummary.pdf) |
