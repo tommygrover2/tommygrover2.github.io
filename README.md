@@ -20,7 +20,7 @@ My name is Thomas Grover. I am a student at North Carolina State University, wit
 ## Personal Projects
 
 ### North Carolina Senior Games Pickleball Data Analysis (SAS)
-[Report](assets/NCSGProjectReport.pdf) |
+[Report](assets/NCSGProjectReport(1).pdf) |
 [Code](assets/NCSGProjectCode.pdf)
 
 ### Alumni Database Filtering and Cleaning for Targeted Outreach (SAS)
