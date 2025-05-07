@@ -21,11 +21,7 @@ My name is Thomas Grover. I am a student at North Carolina State University, wit
 - I will be working under pH.D Statistician Emily Griffith and get to see the full data process.
 - This oppurtunity will allow me to work from end to end and get to see some of the modeling techniques and code used in practical research.
 
-## Projects
-### Statistical Computing Final Project (SAS)
-[Results]() |
-[Phase 1 Code]() |
-[Phase 2 Code]() 
+## Personal Projects
 
 ### North Carolina Senior Games Pickleball Data Analysis (SAS)
 [Report](assets/NCSGProjectReport.pdf) |
@@ -36,4 +32,10 @@ My name is Thomas Grover. I am a student at North Carolina State University, wit
 [Code](assets/AlumniAnalysisCode.pdf) |
 [Sample Output](assets/exoutput1.png)
 
+## Academic Projects
+
+### Statistical Computing Final Project (SAS)
+[Results]() |
+[Phase 1 Code]() |
+[Phase 2 Code]() 
 
