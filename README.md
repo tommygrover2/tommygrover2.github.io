@@ -11,15 +11,11 @@ My name is Thomas Grover. I am a student at North Carolina State University, wit
 - Minors: Mathematical Data Science, Psychology, and Philosophy
 
 ## Work Experience
-**Player Personel Intern @ NC State's Football Program (_August 2025 - June 2026_)**
-- I have recently accepted an internship with NC State's football team as a player personel intern. 
-- Throughout my junior year, I will be primarily working with the recruitment staff as a film evaluator.
-- I hope to grow in the program and eventually work with data in the context of football and sports analytics
 
 **Data Collection Intern @ Institute for Transportation and Research Education (_May 2025 - August 2025_)**
-- This upcoming summer I will be interning with NC State's ITRE as a data collector.
-- I will be working under pH.D Statistician Emily Griffith and get to see the full data process.
-- This oppurtunity will allow me to work from end to end and get to see some of the modeling techniques and code used in practical research.
+- Working closely with a Ph.D. Statistician on a state funded research project in the context of automobile safety and specifically seatbelt usage in North Carolina.
+- Phase 1: Field work collecting data across North Carolina at various hand-picked collection sites, ensuring quality control and accuracy
+- Phase 2: Working closely with and learning from high-level researchers, gaining exposure to complex analyses and statistical techniques to report insightful findings. 
 
 ## Personal Projects
 
