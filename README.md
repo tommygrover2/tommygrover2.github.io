@@ -1,6 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/thomas-grover2/) |
 [Github Profile](https://github.com/tommygrover2) |
-[Resume]()
+[Resume](assets/Resume5-6.pdf)
 
 
 ## About
@@ -33,6 +33,7 @@ My name is Thomas Grover. I am a student at North Carolina State University, wit
 [Data Set]() 
 
 ### Alumni Database Filtering and Cleaning for Targeted Outreach (SAS)
+[Summary/Sample-Output]() |
 [Code]()
 
 
