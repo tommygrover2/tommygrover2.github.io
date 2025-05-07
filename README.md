@@ -28,9 +28,8 @@ My name is Thomas Grover. I am a student at North Carolina State University, wit
 [Phase 2 Code]() 
 
 ### North Carolina Senior Games Pickleball Data Analysis (SAS)
-[Report](https://www.mdpi.com/1424-8220/22/8/3048) |
-[Code]() |
-[Data Set]() 
+[Report](assets/NCSGProjectReport) |
+[Code](assets/NCSGProjectCode)
 
 ### Alumni Database Filtering and Cleaning for Targeted Outreach (SAS)
 [Summary](assets/AlumniAnalysisSummary.pdf) |
