@@ -33,7 +33,8 @@ My name is Thomas Grover. I am a student at North Carolina State University, wit
 [Data Set]() 
 
 ### Alumni Database Filtering and Cleaning for Targeted Outreach (SAS)
-[Summary/Sample-Output]() |
-[Code]()
+[Summary](assets/AlumniAnalysisSummary.pdf) |
+[Code](assets/AlumniAnalysisCode.pdf) |
+[Sample Output](assets/exoutput1.png)
 
 
