@@ -1,6 +1,6 @@
 [LinkedIn](https://www.linkedin.com/in/thomas-grover2/) |
 [Github Profile](https://github.com/tommygrover2) |
-[Resume](assets/Resume5-6.pdf)
+[Resume](assets/Resume5-7.pdf)
 
 
 ## About
