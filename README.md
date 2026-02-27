@@ -8,7 +8,7 @@
 [Collection of Knit PDFs](assets/Thomas_Grover_Predictive_Analytics_Project.zip)
 
 ### LLM News Assistant (Python)
-[Jupyter Notebook](assets/FinalProject (1).ipynb)
+[Jupyter Notebook](assets/FinalProjectLLM.ipynb)
 
 ### Statistical Computing Final Project (SAS)
 [Report](assets/GroverFinalReport.pdf) |
