@@ -14,7 +14,7 @@ All Links are Web Accesible PDFs
 [M6](assets/Milestone6_tmgrover.pdf) |
 
 ### LLM News Assistant (Python)
-| [Jupyter Notebook](assets/FinalProjectLLM.ipynb) |
+| [Jupyter Notebook](assets/LLM_News_Assistant.pdf) |
 
 ### Statistical Computing Final Project (SAS)
 | [Report](assets/GroverFinalReport.pdf) |
