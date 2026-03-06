@@ -3,8 +3,8 @@
 
 ## Projects
 
-All Links are Web Accesible PDFs
-(None will cause a local download)
+All Links are Web Accesible PDFs |
+(None will Cause a Local Download)
 
 ### Bank Marketing Classification (R)
 | [M2](assets/Milestone2_tmgrover.pdf) |
