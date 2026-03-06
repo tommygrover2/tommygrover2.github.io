@@ -1,6 +1,5 @@
-| [LinkedIn](https://www.linkedin.com/in/thomas-grover2/) |
-[Github Profile](https://github.com/tommygrover2) |
-[Resume](assets/rez_rough.pdf) |
+| [Resume](assets/rez_rough.pdf) |
+[LinkedIn](https://www.linkedin.com/in/thomas-grover2/) |
 
 ## Projects
 
