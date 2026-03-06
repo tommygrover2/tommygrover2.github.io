@@ -3,7 +3,7 @@
 
 ## Projects
 
-All Links are Web Accesible PDFs |
+All Links are Web Accesible PDFs
 (None will Cause a Local Download)
 
 ### Bank Marketing Classification (R)
