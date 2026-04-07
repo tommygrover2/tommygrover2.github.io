@@ -22,7 +22,7 @@ All Links are Web Accesible PDFs
 [Phase 2 Code](assets/FP02DemandPDF.pdf) |
 
 ### North Carolina Senior Games Pickleball Data Analysis (SAS)
-| [Report](assets/NCSGProjectReportpdf) |
+| [Report](assets/NCSGProjectReport.pdf) |
 [Code](assets/NCSGProjectCode.pdf) |
 
 ### Alumni Database Filtering and Cleaning for Targeted Outreach (SAS)
